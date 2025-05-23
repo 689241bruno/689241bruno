@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Bruno S. Santos
+# 👋 Sobre mim
 
 ### 📊 Estatísticas
 
