@@ -1,5 +1,7 @@
 # 👋 Sobre mim
 
+Meu nome é Bruno Souza Santos, tenho 18 anos e sou natural de São Paulo - SP. Atualmente, estou cursando o 3º ano do Ensino Médio integrado ao curso técnico de Desenvolvimento de Sistemas na Etec Uirapuru. Sou apaixonado por tecnologia, programação e sempre busco aprender e evoluir tanto na área de desenvolvimento quanto como pessoa.
+
 ### 📊 Estatísticas
 
 <p>
