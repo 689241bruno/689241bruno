@@ -15,7 +15,8 @@ Meu nome é Bruno Souza Santos, tenho 18 anos e sou natural de São Paulo - SP. 
 </p>
 <br>
 </br>
-# 💻 Tecnologias
+<h1>💻 Tecnologias</h1>
+
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height=40 width=40/>
