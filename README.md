@@ -15,7 +15,7 @@ Meu nome é Bruno Souza Santos, tenho 18 anos e sou natural de São Paulo - SP. 
 </div>
 
 
-<div style="width: 100%">
+<div style="width: 100%; display: 'flex';">
   <img 
     align="left" 
     alt="GitHub Stats" 
