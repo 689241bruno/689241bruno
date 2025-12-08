@@ -16,6 +16,7 @@ Meu nome é Bruno Souza Santos, tenho 18 anos e sou natural de São Paulo - SP. 
 <img 
     align="left" 
     alt="GitHub Stats" 
+   height="150" 
     style="width: 40vw;" 
     src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=689241bruno&theme=nord_dark"
   />
